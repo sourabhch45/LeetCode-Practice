@@ -4,7 +4,6 @@ res.append([1])
 for i in range(n-1):
     res.append([1,1])
 res[2].insert(1,2)
-print('ass',res)
 for i in range(3,n):
     insrt=1
     endat=len(res[i-1])
