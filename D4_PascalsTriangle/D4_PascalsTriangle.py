@@ -7,8 +7,6 @@ res[2].insert(1,2)
 for i in range(3,n):
     insrt=1
     endat=len(res[i-1])
-    print('i=',i)
-    print('len=',endat)
     for j in range(1,endat):
             print('j=',j)
             temp=res[i-1][j]+res[i-1][j-1]
