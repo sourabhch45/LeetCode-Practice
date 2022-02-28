@@ -1,3 +1,6 @@
+from pip import List
+
+
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
         stind=0
