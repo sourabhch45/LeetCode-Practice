@@ -1,0 +1,1 @@
+[Link](https://leetcode.com/problems/find-pivot-index/submissions/)
